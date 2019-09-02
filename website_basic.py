@@ -1,7 +1,7 @@
 # Basic website using Flask framework
 # View on localhost:5000
 
-from flask import Flask,render_template
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
